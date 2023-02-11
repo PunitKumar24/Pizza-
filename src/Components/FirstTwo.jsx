@@ -1,5 +1,5 @@
 import React from "react";
-import pizza from "../images/pizza.png";
+import pizza from "../images/Pizza.png";
 function FirstTwo() {
   return (
     <div className="  lg:h-[950px] h-[440px] w-[1200px] bg-no-repeat lg:rounded-bl-[460px] rounded-bl-[610px] max-w-[1240px]  ">
